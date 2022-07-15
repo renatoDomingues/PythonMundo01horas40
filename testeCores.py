@@ -34,3 +34,8 @@ STYLE      <=> TEXT <=> BACK
                 36       46 (azul claro)
                 37       47 (cinza)
 '''
+a = 3
+b = 5
+c = 4
+e = a*b+c**2
+print(e)
